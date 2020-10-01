@@ -1,2 +1,4 @@
 hehe = 1
-nope = hehe + 0
+print(hehe)
+
+s = '5' * 5

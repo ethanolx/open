@@ -1,10 +1,6 @@
-**_test_**
+OPEN REPOSITORY
+===============
 
-for testing purposes only
+> to share code
 
-
-My name is
-> Ethan
->> This is open source
-
-I like `Code`
+`! DON'T ABUSE MY CODE !`

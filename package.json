@@ -1,0 +1,18 @@
+{
+  "name": "friendbook",
+  "version": "1.0.0",
+  "description": "for remaining practicals",
+  "main": "./src/server.js",
+  "scripts": {
+    "test": "nodemon --exitcrash .",
+    "start": "node ."
+  },
+  "author": "Ethan Tan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5"
+  },
+  "type": "module"
+}

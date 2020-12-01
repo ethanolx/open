@@ -1,0 +1,8 @@
+# Dependencies
+node_modules
+
+# Marked for Deletion
+tmp
+
+# Logistics
+logs
